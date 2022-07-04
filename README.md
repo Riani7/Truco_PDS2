@@ -4,10 +4,9 @@
 
 
 # User Stories
-+ Eu como mesa embaralho embaralho e distribuo as cartas.
-+ Eu como baralho tenho 40 cartas, as do baralho tradicional excluindo os 8, 9 e 10.
++ Eu como jogador gostaria de pedir truco.
++ Eu como jogador gostaria de olhar as cartas da minha mão.
 + Eu como jogador recebo três cartas.
-+ Eu como rodada tenho valor de  pontos.
++ Eu como jogador gostaria de jogar uma carta.
 + Eu como  jogador, estando na minha vez, posso aumentar o valor da rodada de acordo com as regras.
-+ Eu como queda termino  quando um  jogador tiver 12 pontos.
-+ Eu como partida termino quando um  jogador  ganhar duas quedas. 
++ Eu como jogador gostaria de desistir da partida. 
